@@ -16,5 +16,13 @@ draft: false
 - **Camel ADV Fork Guards**  
   *Source: [Camel ADV](https://camel-adv.com/collections/kove-800x/products/kove-800x-fork-guards)
 
+- **Camel ADV Skidplate**  
+  *Source: [Camel ADV](https://www.kovemotousa.com/store/p/camel-adv-gut-guard-skid-plate-kove-800x)
+
+ - **R Tech Skidplate**  
+  *Source: [R-Tech](https://rtechmx.com/product/motorsport/revolution-kit/kove-800-x-2025-revolution/engine-protection/)
+
 - **R&G Racing Fork Protectors**  
   *Source: [R&G Racing](https://www.rg-racing.com/browsebike/Kove/800X_PRO/2024/)
+
+  
